@@ -32,5 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 
+<<<<<<< HEAD
 !**/src/main/resources/application-produ.properties
+=======
+src/main/resources/application-produ.properties
+>>>>>>> origin/main
 
